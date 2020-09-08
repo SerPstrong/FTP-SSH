@@ -1,0 +1,1 @@
+pscp.exe -pw ***password*** C:\testXML\testXML.xml user@host:/путь до дирректории

@@ -1,0 +1,5 @@
+open ***host***
+***user***
+***password***
+mput C:\testXML\*.xml
+quit

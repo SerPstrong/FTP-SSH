@@ -1,0 +1,1 @@
+ftp.exe -i -s:C:\testXML\commands.txt
